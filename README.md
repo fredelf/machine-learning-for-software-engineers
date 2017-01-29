@@ -25,7 +25,7 @@
 
 ## Machine learning mastery
 - [X] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [X] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [Machine Learning Algorithms Mini-Course](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
